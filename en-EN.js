@@ -671,7 +671,7 @@ module.exports = {
     },
     stats: {
         errors: {
-            fetch_error: "**Whoops!** Impossible de récupérer les données nécessaires pour afficher les statistiques.. *Si le problème persiste, veuillez signaler le bogue sur le serveur support.*"
+            fetch_error: "**Whoops!** Unable to retrieve the necessary data to display the statistics... *If the issue persists, please report the bug to the support server.*"
         },
         help_screen: {
             embed_title: "Afficher une statistique",
